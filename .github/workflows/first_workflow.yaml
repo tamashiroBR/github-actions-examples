@@ -6,6 +6,6 @@ jobs:
   run-shell-commands:
     runs-on: ubuntu-latest
     steps:
-    - name: First step
-    run: echo "Hello World"
+      - name: First step
+      run: echo "Hello World"
 
